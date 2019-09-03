@@ -229,7 +229,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OCP 4.1 deployed for IBM J2C COE Demo by Sugandha </h1>
+            <h1>Welcome to your Ruby application on OCP 4.1 deployed for IBM J2C COE Demo by Baba </h1>
           </hgroup>
 
 
